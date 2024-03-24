@@ -1,0 +1,68 @@
+.button-body{
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.button{
+    border-radius: 5px;
+}
+
+.button-row{
+    height: 65px;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    gap: 30px;
+}  
+    
+.First{
+    background: #4f46e5;
+    color: white;
+    border: solid 1px #4f46e5;
+}
+.Second{
+    background: #e0e7ff;
+    color: #4f46e5;
+    border: solid 1px #e0e7ff;
+}
+.Third{
+    background: #ffffff;
+    border: solid 1px #d1d5db;
+}
+.b1{
+    height: 25px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.b2{
+    height: 30px;
+    padding-right: 12px;
+    padding-left: 12px;
+}
+.b3{
+    height: 35px;
+    padding-right:14px;
+    padding-left: 14px;
+}
+.b4{
+    height: 40px;
+    font-size: 13px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.b5{
+    height: 45px;
+    font-size: 16px;
+    padding-right: 20px;
+    padding-left: 20px;
+
+}
+
+
+
+
+
+

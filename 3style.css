@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0 auto;
+  max-width: 450px;
+  padding: 70px;
+}
+.card-1 {
+  max-width: 350px;
+  /* background-color: beige; */
+  text-align: start;
+  /* box-shadow:inset; */
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.avatar {
+  width: 310px;
+  height: 180px;
+}
+.avatar2 {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+}
+.A-info {
+  padding-top: 15px;
+
+  display: flex;
+}
+.A-details {
+  padding-left: 8px;
+  padding-top: 3px;
+}
+.article {
+  padding: 18px;
+}
+h3 {
+  padding-top: 8px;
+}
+.article_info {
+  padding-top: 8px;
+}
+p {
+  line-height: 25px;
+  color: #6b7280;
+}
+h4 {
+  color: #4f46e5;
+}
+.blog-info {
+  padding-top: 10px;
+  padding-bottom: 40px;
+}
